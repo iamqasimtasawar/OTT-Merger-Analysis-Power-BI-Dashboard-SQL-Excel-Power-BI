@@ -1,0 +1,19 @@
+Platform,AVG_WatchTime_Mins,city_tier,device_type
+Jotstar,11572,"Tier 1",Mobile
+Jotstar,9711,"Tier 2",Mobile
+Jotstar,8091,"Tier 3",Mobile
+Jotstar,6526,"Tier 1",TV
+Jotstar,5553,"Tier 1",Laptop
+Jotstar,4955,"Tier 2",TV
+Jotstar,4235,"Tier 2",Laptop
+Jotstar,3646,"Tier 3",TV
+Jotstar,3228,"Tier 3",Laptop
+LioCinema,4017,"Tier 1",Mobile
+LioCinema,3087,"Tier 2",Mobile
+LioCinema,1846,"Tier 3",Mobile
+LioCinema,1076,"Tier 1",TV
+LioCinema,780,"Tier 2",TV
+LioCinema,695,"Tier 1",Laptop
+LioCinema,506,"Tier 3",TV
+LioCinema,506,"Tier 2",Laptop
+LioCinema,338,"Tier 3",Laptop
